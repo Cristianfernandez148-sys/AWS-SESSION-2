@@ -34,4 +34,4 @@ jobs:
           pip install boto3
 
       - name: Run script
-        run: python boto.py
+        run: python boto3.py
